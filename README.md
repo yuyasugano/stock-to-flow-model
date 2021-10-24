@@ -1,4 +1,4 @@
-# Stock-to-flow model for BTC & LTC
+# Stock-to-flow model for crypto currencies
  
 ## Overview
  
@@ -9,7 +9,9 @@ https://yuyasugano.medium.com/stock-to-flow-model-for-btc-ltc-is-ltc-silver-in-c
 ## Jupyter Notebook
  
 1. `Stock-to-flow model in crypto currencies (BTC & LTC).ipynb`  
-The jupyter notebook explains how to obtain data points & how to fit a model for data. 
+The jupyter notebook explains how to obtain data points & how to fit a model for data.
+2. `Stock-to-flow model in crypto and beyond Polynomial Regression.ipynb`  
+The jupyter notebook extends a linear regression model with polynomial 2 degree for data.   
  
 ## License
  
